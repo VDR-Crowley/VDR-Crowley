@@ -1,5 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://img.freepik.com/vetores-gratis/programador-portatil-com-ilustracao-de-cafe-livros-e-oculos_138676-139.jpg?size=626&ext=jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+<!--
+https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
+-->
 <p align="left">
   Hello, seja bem vindo ao meu github! meu nome é Vando Dos Reis, eu sou um <strong>Desenvolvedor Full Stack</strong>.<br>
   Estou estudando Desenvolvimento de Sistemas para a Internet.<br><br>
