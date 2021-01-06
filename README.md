@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 <p align="left">
   Hello, seja bem vindo ao meu github! meu nome é Vando Dos Reis, eu sou um <strong>Desenvolvedor Full Stack</strong>.<br>
   Estou estudando Desenvolvimento de Sistemas para a Internet.<br><br>
-  Atualmento não tenho nenhum emprego fixo;<br>
+  Atualmente não tenho nenhum emprego fixo;<br>
   Estudos:<br>
   Cursando desenvolvimento fullstack da B7Web;<br>
   Cursando Web moderno da escola Cod3r cursos online;<br>
