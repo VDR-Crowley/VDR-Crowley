@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
   Estudos:<br>
   Cursando desenvolvimento fullstack da B7Web;<br>
   Cursando Web moderno da escola Cod3r cursos online;<br>
+  Cursando Front-End na Origamid;<br>
   <br>
   Estou disponivel para freelancer na area de Desenvolvimento Web.
   
