@@ -1,34 +1,27 @@
-<img src="https://img.freepik.com/vetores-gratis/programador-portatil-com-ilustracao-de-cafe-livros-e-oculos_138676-139.jpg?size=626&ext=jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<!--
-https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
--->
-<p align="left">
-  Hello, seja bem vindo ao meu github! meu nome é Vando Dos Reis, eu sou um <strong>Desenvolvedor Full Stack</strong>.<br>
-  Estou estudando Desenvolvimento de Sistemas para a Internet.<br><br>
-  Atualmente não tenho nenhum emprego fixo;<br>
-  Estudos:<br>
-  Cursando desenvolvimento fullstack da B7Web;<br>
-  Cursando Web moderno da escola Cod3r cursos online;<br>
-  Cursando Front-End na Origamid;<br>
-  <br>
-  Estou disponivel para freelancer na area de Desenvolvimento Web.
+ <div>
+  <h1><sup>👋</sup> Hello World</h1>
+  <h3>🤓 Meu nome é &#60;/Vando Dos Reis&gt, Programador Front-end!</h3> 
+  Seja bem vindo ao meu github!
+  <img align="right" src="https://i.picasion.com/pic91/8cb37059a6dd1b1aed75b10393c0b36f.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
+ </div>
+ 
+ ##
+ 
+  <p align="left">
+  📚 Estudos:<br>
+<ul><li>Cursando desenvolvimento fullstack da B7Web;</li>
+  <li>Cursando Web moderno da escola Cod3r cursos online;</li>
+  <li>Cursando Front-End na Origamid;</li></ul>
   
+  💡 Estou disponivel para freelancer.
+ 
+ <p align="left">
+  💌 Fique avontade para entrar em contato comigo, vamos conversar!: ⤵️
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Html, Css, Javascript, Bootstrap4</strong>
-</p>
-
-<p align="left">
-  💼 Tools: <strong>Visual Studio Code, Sublime Text, Photoshop, Figma, Netlify, GitHub.</strong>
-</p>
-
-<p align="left">
-  💌 Fique avontade para entrar em contato comigo pode, vamos conversar!: ⤵️
-</p>
-
-<p align="left">
+  <ul>
+    <li>
   <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
@@ -37,11 +30,104 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 
   <a href="https://api.whatsapp.com/send/?phone=5511958600976&text&app_absent=0" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-
+      
   <a href="https://www.instagram.com/nerd_baixo.nivel/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+    </li>
+    </ul>
+    </p>  
+
+ 
+ 
+ ## 
+ 
+  
+</p>
+ <div aling="center">
+  <a href="https://github.com/VDR-Crowley">
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=VDR-Crowley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDR-Crowley&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+ </div>
+ 
+ 
+ ## 
+ 
+<div style="display: inline_block"><br>
+  🦄<strong>SKILLS:</strong><br>
+  <p align="left">
+    <ul>
+    <li>
+      <img align="center" 
+           alt="Vando-Js" height="35" width="130" 
+           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-bottom: 5px;">
+      <img  align="center" 
+           alt="Vando-Ts" height="35" width="120" 
+           src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-React" height="35" width="120" 
+           src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-HTML" height="35" width="120" 
+           src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-CSS" height="35" width="120" 
+           src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-Bootstrap" height="35" width="120" 
+           src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></li>
+    <li>
+      <img align="center" 
+           alt="Vando-Php" height="35" width="100" 
+           src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-Python" height="35" width="120" 
+           src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></li>
+  </ul>
+  </p>
+</div>
+
+<div style="display: inline_block"><br>
+  💼 <strong>TOOLS:</strong><br>
+  <p align="left">
+  <ul>
+    <li>
+      <img align="center" 
+           alt="Vando-vscode" height="30" width="150" 
+           src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-sublime-text" height="30" width="120" 
+           src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-photoshop" height="30" width="120" 
+           src="https://aleen42.github.io/badges/src/photoshop.svg" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-figma" height="30" width="120" 
+           src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 5px;">
+      <img align="center" 
+           alt="Vando-adobeXD" height="30" width="120" 
+           src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" style="margin-bottom: 5px;">
+      <a href="https://app.netlify.com/teams/vdr-crowley/overview">
+        <img align="center" 
+             alt="Vando-Netlify" height="30" width="120" 
+             src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+      </a>
+    </li>
+  </ul>
+  </p>
+</div>
+  
+<!--
+https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
+-->
+
+
+
+
+
+
 
 <!--
 **VDR-Crowley/VDR-Crowley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
