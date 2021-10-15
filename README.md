@@ -1,6 +1,6 @@
  <div>
   <h1><sup>👋</sup> Hello World</h1>
-  <h3>🤓 Meu nome é &#60;/Vando Dos Reis&gt, Programador Front-end!</h3> 
+  <h3>🤓 Eu sou &#60;/Vando Dos Reis&gt, Programador Front-end!</h3> 
   Seja bem vindo ao meu github!
   <img align="right" src="https://i.picasion.com/pic91/8cb37059a6dd1b1aed75b10393c0b36f.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
  </div>
@@ -55,59 +55,47 @@
  
  ## 
  
-<div style="display: inline_block"><br>
   🦄<strong>SKILLS:</strong><br>
   <p align="left">
     <ul>
     <li>
-      <img align="center" 
-           alt="Vando-Js" width="130" 
-           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-bottom: 5px;">
-      <img  align="center" 
-           alt="Vando-Ts" width="120" 
-           src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 5px;">
-      <img align="center" 
-           alt="Vando-React" height="25" width="100" 
-           src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-bottom: 5px;">
-      <img align="center" 
-           alt="Vando-HTML" height="25" width="100" 
-           src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;">
-      <img align="center" 
-           alt="Vando-CSS" height="25" width="100" 
-           src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;">
-      <img align="center" 
-           alt="Vando-Bootstrap" width="120" 
-           src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></li>
-    <li>
-      <img align="center" 
-           alt="Vando-Php" height="25" width="80" 
-           src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 5px;">
-      <img align="center" 
-           alt="Vando-Python" height="25" width="100" 
-           src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></li>
+      <div style="display: inline_block">
+      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      </div>
+     </li>
   </ul>
   </p>
-</div>
+
+
+  
 
 <div style="display: inline_block"><br>
   💼 <strong>TOOLS:</strong><br>
   <p align="left">
   <ul>
     <li>
-     <img align="center" alt="Vando-vscode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin-bottom: 5px;">
-      <img align="center" alt="Vando-sublime-text" width="120" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="margin-bottom: 5px;">
-      <img align="center" alt="Vando-photoshop" width="120"  src="https://aleen42.github.io/badges/src/photoshop.svg" style="margin-bottom: 5px;">
-      <img align="center" alt="Vando-figma" height="25" width="100" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 5px;">
-      <img align="center" alt="Vando-adobeXD" height="25" width="100" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" style="margin-bottom: 5px;">
-      <a href="https://app.netlify.com/teams/vdr-crowley/overview">
-      <img align="center" alt="Vando-Netlify" height="25" width="100" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-      </a>
+     <img align="center" alt="Vando-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      <img align="center" alt="Vando-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <img align="center" alt="Vando-gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+      <img align="center" alt="Vando-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+      <img align="center" alt="Vando-adobeXD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+      <img align="center" alt="Vando-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     </li>
   </ul>
   </p>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+## 
+
+![Snake animation](https://github.com/VDR-Crowley/VDR-Crowley/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
