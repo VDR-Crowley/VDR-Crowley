@@ -80,7 +80,7 @@
            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></li>
     <li>
       <img align="center" 
-           alt="Vando-Php" height="25" width="100" 
+           alt="Vando-Php" height="25" width="80" 
            src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 5px;">
       <img align="center" 
            alt="Vando-Python" height="25" width="100" 
