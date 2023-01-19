@@ -11,6 +11,7 @@
   📚 Estudos:<br>
 <ul><li>Cursando desenvolvimento fullstack da B7Web;</li>
   <li>Cursando Web moderno da escola Cod3r cursos online;</li>
+  <li>Cursando na Escola de Tecnologia Alura;</li>
   <li>Cursando Front-End na Origamid;</li></ul>
   
   💡 Estou disponivel para freelancer.
@@ -50,13 +51,13 @@
     <img height="180em" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDR-Crowley&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
- </div>
+</div>
  
  
  ## 
- 
-  🦄<strong>SKILLS:</strong><br>
+  🦄<strong>MAIN STACK:</strong><br>
   <p align="left">
+    <em>	&#60;FrontEnd: /&#62;</em><br>
     <ul>
     <li>
       <div style="display: inline_block">
@@ -65,15 +66,38 @@
       <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      </div>
+     </li>
+  </ul>
+  </p>  
+ 
+   <p align="left">
+    <em>&#60;?="back-end:" ?&#62;</em><br>
+    <ul>
+    <li>
+      <div style="display: inline_block">
+       <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+       <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      </div>
+     </li>
+  </ul>
+  </p>  
+ 
+  🚀<strong>SKILLS:</strong><br>
+  <p align="left">
+    <ul>
+    <li>
+      <div style="display: inline_block">
+      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+      <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
       <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
       <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       </div>
      </li>
   </ul>
-  </p>
-
-
+  </p>               
   
 
 <div style="display: inline_block"><br>
@@ -84,9 +108,11 @@
      <img align="center" alt="Vando-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
       <img align="center" alt="Vando-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       <img align="center" alt="Vando-gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
-      <img align="center" alt="Vando-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
       <img align="center" alt="Vando-adobeXD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
       <img align="center" alt="Vando-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+      <img align="center" alt="Vando-webStorm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg">
+     <img align="center" alt="Vando-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+     <img align="center" alt="Vando-jira" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />     
     </li>
   </ul>
   </p>
